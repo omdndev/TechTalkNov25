@@ -18,4 +18,9 @@ public class Calc: ICalc
     {
         return a / b;
     }
+
+    public int Multiply(int a, int b)
+    {
+        return a * b;
+    }
 }
