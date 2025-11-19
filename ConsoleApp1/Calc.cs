@@ -14,7 +14,7 @@ public class Calc: ICalc
         return a - b;
     }
 
-    public double Divide(double a, double b)
+    public int Divide(int a, int b)
     {
         return a / b;
     }
